@@ -1,7 +1,7 @@
 FROM qnib/pytest:latest
-WORKDIR /Users/sakshiarora/docker1/restapitesting
-ADD restapitesting .
-WORKDIR /Users/sakshiarora/docker1/restapitesting
+#WORKDIR /Users/sakshiarora/docker1/restapitesting
+ADD * .
+#WORKDIR /Users/sakshiarora/docker1/restapitesting
 
 
 
