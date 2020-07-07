@@ -1,0 +1,3 @@
+{"name":"","age":"22","salaray":"50"}
+{"name":"saksh","age":"","salaray":"99"}
+{"name":"ishan","age":"22","salaray":""}
