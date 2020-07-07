@@ -1,0 +1,3 @@
+{"name":"sakshi","age":"22","salaray":"50"}=200
+{"name":"saksh","age":"21","salaray":"99"}=200
+{"name":"ishan","age":"22","salaray":"50"}=200
