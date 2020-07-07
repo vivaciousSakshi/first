@@ -27,7 +27,7 @@ def test_10cases(input_data):
 
 
 our_list=[]
-file=open("/Users/sakshiarora/PycharmProjects/restapitesting/test_data.txt","r")
+file=open("test_data.txt","r")
 for i in file.readlines():
 
   our_list.append(i)
